@@ -8,7 +8,7 @@ EXCEPT over the past few years since laZagne first released, the only things tha
 
 anyway so basically it used to accurately display users AND passwords but now passwords are like encrypted in random chinese letters and the strings are long as fuck. 
 
-### ALSO MAKE SURE YOU DISABLE REAL TIME ANTI CHEAT
+### ALSO MAKE SURE YOU DISABLE REAL TIME ANTI VIRUS
 
 The reason being that (i assume so) after the laZagne patch or whatever happened to it (mind you im not 100% cuz i cant actually see the script) The exe now shows up as it own virus i believe, it literally showed up as a "hack tool" in defender so idk just try it ig.
 
